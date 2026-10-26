@@ -1,0 +1,1 @@
+DATA NOTICE: BOTH bundled CSVs are SYNTHETIC Olist-shaped demo data. See README for importing authentic Olist data.

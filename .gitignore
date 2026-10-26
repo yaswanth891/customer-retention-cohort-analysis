@@ -1,0 +1,20 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# Local credentials and downloaded third-party full datasets
+.env
+.env.*
+!.env.example
+data/real/*
+!data/real/README.txt
+
+# Local temporary artifacts
+*.db
+*.sqlite
+*.sqlite3

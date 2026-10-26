@@ -1,0 +1,8 @@
+{
+  "delivered_orders": 19432,
+  "unique_buyers": 14577,
+  "eligible_30d_buyers": 14568,
+  "repeat_30d_rate": 0.06370126304228446,
+  "first_month_retention_eligible_cohorts": 22,
+  "demo_data": true
+}
